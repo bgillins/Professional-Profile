@@ -325,7 +325,7 @@ def main():
                 
                 **Tasks:**
                 - [Task 1 - Clustering Analysis](https://d212-task1-link)
-                - [Task 2 - Dimension Reduction](https://d212-task2-link)
+                - [Task 2 - Dimension Reduction](https://bgd212task2.streamlit.appp)
                 - [Task 3 - Association Rules](https://professional-profile-d212.streamlit.app)
                 """)
 
