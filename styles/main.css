@@ -1,0 +1,29 @@
+/* styles/main.css */
+
+.stApp {
+    background-color: #f8f9fa;
+}
+
+.project-card {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+.project-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.skill-tag {
+    background-color: #001f3f;
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 0.2rem;
+    font-size: 0.9rem;
+}
