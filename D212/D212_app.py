@@ -145,34 +145,6 @@ if section == "Introduction":
     # D212 Task 3
     #### WGU Western Governors University 
     """)
-    
-    st.markdown("""
-    # Table of Contents
-
-    ### I. Research Question
-    - A1. Proposed Question
-    - A2. Goal of the Data Analysis
-
-    ### II. Data Analysis
-    - B1. Explain Market Basket Analysis
-    - B2. Example of a Transaction in the Data Set
-    - B3. Assumption of Market Basket Analysis
-
-    ### III. Data Transformation
-    - C1. Data Transformation
-    - C2. Generate Frequent Itemsets
-    - C3. Generate Association Rules
-    - C4. Top Three Relevant Rules from Apriori
-
-    ### IV. Data Analysis       
-    - D1. Summary of the Significance of Support, Lift, and Confidence
-    - D2. Practical Significance of Findings
-    - D3. Recommended Course of Action
-
-    ### V. Attachments
-    - F1. Recording
-    - F2. Sources
-    """)
 
 elif section == "I. Research Question":
     st.markdown("""
